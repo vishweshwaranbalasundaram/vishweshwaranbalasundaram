@@ -1,0 +1,29 @@
+UPLOAD THIS PACKAGE TO YOUR PROFILE REPOSITORY
+
+Repository:
+vishweshwaranbalasundaram
+
+At the repository root, you need:
+
+README.md
+assets/
+.github/
+  workflows/
+    snake.yml
+
+Do not create another outer folder in GitHub.
+
+After uploading and committing:
+1. Open Actions.
+2. Select "Generate Snake".
+3. Click "Run workflow".
+4. Wait for the green check.
+5. Refresh your profile.
+
+The README expects the media at:
+./assets/berserker-intro.gif
+./assets/berserker-intro.mp4
+./assets/berserker-poster.jpg
+./assets/manga-eye-reference.jpg
+
+The snake is generated into the output branch by the workflow.
