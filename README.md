@@ -1,460 +1,185 @@
-[README.md](https://github.com/user-attachments/files/31958938/README.md)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=vishweshwaranbalasundaram.vishweshwaranbalasundaram" />
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hey+There+👋;I'm+Vishweshwaran+V!;AKA+👉+The+Berserker;Struggle+%C2%B7+Endure+%C2%B7+Contend" />
+</h1>
 
-<div align="center">
-
-<a href="./assets/berserker-intro.mp4">
-  <img src="./assets/berserker-intro.gif" alt="Berserker intro — click to watch the full video" width="100%">
-</a>
-
+<h3 align="center">⚔️ Berserker Profile ⚔️</h3>
 <br>
 
-# ⚔️ VISHWESHWARAN V
+<div align="left">
 
-### `THE BERSERKER`
+- 🎓 **Rank:** Computer Science Engineering Student
+- 🏫 **Guild:** Rajalakshmi Engineering College
+- ⚔️ **Class:** Data Science · Machine Learning · Agentic AI
+- 🧠 **Sub-Skills:** Programming · DSA · Data Science · AI/ML
+- 🌑 **Current Training Arc:** Machine Learning · Agentic AI · Data Science
+- 🐺 **Nature:** Lone Wolf
+- ☠️ **Objective:** Build real systems. Keep struggling.
 
-`DATA SCIENCE` · `MACHINE LEARNING` · `AGENTIC AI` · `DSA`
+</div>
 
-<br>
+<div align="left">
+  <a href="./assets/berserker-intro.mp4">
+    <img src="./assets/berserker-intro.gif" alt="Berserker animated intro — click to watch the full video" width="600" />
+  </a>
+</div>
 
 > *“Struggle, endure, contend. For that alone is the sword of one who defies death.”*
 
-<br>
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vishweshwaranbalasundaram)
-
+<div align="left">
+  <a href="https://github.com/vishweshwaranbalasundaram" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" />
+  </a>
 </div>
 
----
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=2" width="100%"/>
+
+<br/>
+<h2 align="left">⚒️ Arsenal · Skills · Loadout ⚒️</h2>
+<br/>
 
 <div align="center">
 
-`STRUGGLE` ━━━ `ENDURE` ━━━ `CONTEND`
+# 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-111111?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=white)
+
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-111111?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-111111?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
+![Razorpay](https://img.shields.io/badge/Razorpay-111111?style=for-the-badge&logo=razorpay&logoColor=white)
+
+![NumPy](https://img.shields.io/badge/NumPy-111111?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-111111?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-111111?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-111111?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 </div>
 
-# 🩸 THE STRUGGLER
+<br/>
 
-I'm **Vishweshwaran V**, a CSE undergraduate at **Rajalakshmi Engineering College**.
+<h2 align="left">📈 Rank Progress 📈</h2>
+<br/>
 
-My current path is **Data Science → Machine Learning → Agentic AI**, with **programming and DSA** as the foundation.
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vishweshwaranbalasundaram&theme=dark&hide_border=true&border_radius=12" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishweshwaranbalasundaram&show_icons=true&theme=dark&hide_border=true" height="150" />
+</p>
 
-I learn by building, breaking, understanding, and rebuilding.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishweshwaranbalasundaram&layout=compact&theme=dark&hide_border=true" height="150" />
+</p>
 
-```text
-NATURE      LONE WOLF
-CLASS       CSE UNDERGRADUATE
-PATH        DATA → INTELLIGENCE → SYSTEMS
-CURRENT     ML · AGENTIC AI · DATA SCIENCE
-GUILD       DEVS TECH SOCIETY
-STATUS      FORGING
-```
+<br/>
 
----
+<div align="left">
 
-# ⚔️ ARSENAL
+<h2>🩸 Struggler's Trail 🩸</h2>
 
-### PRIMARY WEAPONS
-
-`Python` · `Java` · `C` · `SQL`
-
-### FORGED SYSTEMS
-
-`FastAPI` · `Next.js` · `React` · `Tailwind CSS` · `PostgreSQL` · `Git` · `Razorpay`
-
-### MIND / MACHINE
-
-`NumPy` · `Pandas` · `Scikit-learn` · `Matplotlib`
-
----
-
-# 🌑 CURRENT ARC
-
-```text
-                 DATA SCIENCE
-                      │
-                      ▼
-              MACHINE LEARNING
-                      │
-                      ▼
-                 AGENTIC AI
-                      │
-                      ▼
-                REAL SYSTEMS
-```
-
-**Training now:**
-
-- 🧠 Data Science
-- 🤖 Machine Learning
-- 🛡️ Agentic AI
-- ⚔️ Programming / DSA
-
----
-
-# ☠️ QUEST LOG
-
-## `01` — PAYTRIX
-
-### `AGENT → SAFETY KERNEL → PAYMENT`
-
-A safety-first Agent-to-Agent commerce platform with a **Safety Kernel** between an AI agent and Razorpay.
-
-**STATUS:** `FORGED`
-
-**FOCUS:** `AGENTIC AI · PAYMENT SAFETY`
-
-[ENTER QUEST →](https://github.com/vishweshwaranbalasundaram/safepay-guard-os)
-
----
-
-## `02` — HACKTRAIL
-
-### `THE HUNT FOR THE NEXT HACKATHON`
-
-A state-first hackathon and technology-event finder for India with proximity sorting, live search and stay recommendations.
-
-**STATUS:** `DEPLOYED`
-
-**FOCUS:** `FULL STACK · DATA · EVENTS`
-
-[ENTER QUEST →](https://hacktrail.vercel.app)
-
----
-
-## `03` — E-COMMERCE CHURN PREDICTION
-
-### `READ THE PATTERN`
-
-A machine-learning project for predicting customer churn from e-commerce behaviour data.
-
-**STATUS:** `EXPERIMENT`
-
-**FOCUS:** `MACHINE LEARNING · DATA SCIENCE`
-
-[ENTER QUEST →](https://github.com/vishweshwaranbalasundaram/ecommerce-churn-prediction)
-
----
-
-## `04` — DSA IN C
-
-### `THE FOUNDATION`
-
-Data structures and algorithms implemented in C.
-
-**STATUS:** `TRAINING`
-
-**FOCUS:** `PROGRAMMING · DSA`
-
-[ENTER QUEST →](https://github.com/vishweshwaranbalasundaram/dsa-in-c)
-
----
-
-# 🐺 LONE WOLF
-
-```text
-I don't need a straight path.
-
-LEARN
-  ↓
-BUILD
-  ↓
-BREAK
-  ↓
-DEBUG
-  ↓
-UNDERSTAND
-  ↓
-REBUILD
-```
-
-Independent by nature.
-
-Unconventional by choice.
-
-Always looking for the next thing worth building.
-
----
-
-# 🦅 THE GUILD
-
-### `DEVS TECH SOCIETY`
-
-**ROLE:** Member
-
-A part of the technical community I'm learning and building with.
-
----
-
-# 🩸 BATTLE RECORD
-
-### `FIELD EXPERIENCE`
-
-**DATA SCIENTIST INTERN — QSKILL**
-
-Data Science internship experience.
-
-### `KNOWLEDGE FORGED`
-
-**IBM — What Is Data Science**
-
-Completed learning/certification material related to Data Science.
-
-**MongoDB**
-
-Completed MongoDB learning/certification material.
-
----
-
-# 🎬 THE MOTION PANEL
-
-<div align="center">
-
-<a href="./assets/berserker-intro.mp4">
-  <img src="./assets/berserker-poster.jpg" alt="Watch the full Berserker video" width="78%">
-</a>
-
-<br>
-
-`▶ WATCH THE FULL VIDEO`
-
-<br>
-
-<sub>
-The animated panel above is a lightweight GIF preview generated from the supplied video.
-Click it to open the full MP4.
-</sub>
+<img alt="contribution snake" src="https://raw.githubusercontent.com/vishweshwaranbalasundaram/vishweshwaranbalasundaram/output/github-contribution-grid-snake.svg" />
 
 </div>
 
----
+<br/>
+<br/>
 
-# 👁️ THE EYE
+<details>
+  <summary>☠️ Quest Log — Projects ☠️</summary>
+  <br>
+
+  ### 🩸 Paytrix
+  **Agent → Safety Kernel → Payment**
+
+  A safety-first Agent-to-Agent commerce platform with a Safety Kernel between an AI agent and Razorpay.
+
+  [⚔️ Enter Quest →](https://github.com/vishweshwaranbalasundaram/safepay-guard-os)
+
+  <br>
+
+  ### ⚔️ HackTrail
+  **The Hunt for the Next Hackathon**
+
+  A state-first hackathon and technology-event finder for India with proximity sorting, live search and stay recommendations.
+
+  [⚔️ Enter Quest →](https://hacktrail.vercel.app)
+
+  <br>
+
+  ### 🧠 E-Commerce Churn Prediction
+  **Read the Pattern**
+
+  A machine-learning project focused on predicting customer churn from e-commerce behaviour data.
+
+  [⚔️ Enter Quest →](https://github.com/vishweshwaranbalasundaram/ecommerce-churn-prediction)
+
+  <br>
+
+  ### 🗡️ DSA in C
+  **The Foundation**
+
+  Data structures and algorithms implemented in C.
+
+  [⚔️ Enter Quest →](https://github.com/vishweshwaranbalasundaram/dsa-in-c)
+
+  <br>
+</details>
+
+<br/>
+
+<details>
+  <summary>⚔️ Battle Record ⚔️</summary>
+  <br>
+
+  - 💼 **Data Scientist Intern — QSkill**
+  - 📜 **IBM — What Is Data Science**
+  - 🍃 **MongoDB — Learning / Certification**
+  - 🛡️ **DEVS Tech Society — Member**
+
+  <br>
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=2" width="100%"/>
+
+<h3 align="center">🌑 Status 🌑</h3>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishweshwaranbalasundaram&bg_color=0D1117&color=E6E6E6&line=8B0000&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+</p>
+
+```diff
++ Forging Machine Learning skills
++ Building Agentic AI systems
++ Exploring Data Science
++ Strengthening DSA
+- Tutorial-only comfort zone
+```
+
+<br/>
 
 <div align="center">
 
-<img src="./assets/manga-eye-reference.jpg" alt="Manga eye reference" width="55%">
+<img src="./assets/manga-eye-reference.jpg" alt="Manga eye reference" width="420" />
 
-</div>
+<br/><br/>
 
-The visual language stays intentionally restrained:
+### ⚔️ STRUGGLE · ENDURE · CONTEND ⚔️
 
-**ink · black · white · shadow · one red accent**
-
-No overloaded anime collage.
-
-No random AI art.
-
-No fake game statistics.
-
-The animation does the talking.
-
----
-
-# ⚔️ THE BLACK SWORD
-
-```text
-             DATA
-              │
-              ▼
-          KNOWLEDGE
-              │
-              ▼
-           PRACTICE
-              │
-              ▼
-             CODE
-              │
-              ▼
-           SYSTEMS
-              │
-              ▼
-            IMPACT
-```
-
-The weapon isn't the sword.
-
-**The weapon is skill.**
-
----
-
-# 🩸 THE BEHELIT
-
-```text
-                  ◉
-              ◉       ◉
-                  ◉
-              ◉       ◉
-                  ◉
-```
-
-### `CHOICE`
-
-Every difficult problem creates a choice:
-
-**stop**
-
-or
-
-**struggle again.**
-
-I choose the second.
-
----
-
-# 🌑 THE ECLIPSE
-
-```text
-              █████████████
-          █████████████████████
-        █████████████████████████
-       ██████████       ██████████
-      █████████             █████████
-       ██████████       ██████████
-        █████████████████████████
-          █████████████████████
-              █████████████
-```
-
-The Eclipse is the turning point.
-
-For me, every broken build, difficult bug and failed experiment is another turning point:
-
-`BREAK → LEARN → REFORGE`
-
----
-
-# 🦅 DREAM / CAUSALITY
-
-A dream is only useful if it becomes something real.
-
-```text
-IDEA
- ↓
-EXPERIMENT
- ↓
-CODE
- ↓
-FAILURE
- ↓
-ITERATION
- ↓
-SYSTEM
-```
-
-**Causality** is not an excuse to stop.
-
-It's a reminder that every action changes what comes next.
-
----
-
-# 🩸 THE APOSTLES
-
-The enemy list is familiar:
-
-```text
-BUGS
-EDGE CASES
-BAD ASSUMPTIONS
-BROKEN BUILDS
-DEPENDENCY HELL
-DEADLINES
-```
-
-No need to defeat all of them today.
-
-Just the next one.
-
----
-
-# ☠️ BERSERKER ARMOR
-
-When the problem gets difficult:
-
-```text
-COMFORT      ──╳──
-DISTRACTION  ──╳──
-EXCUSES      ──╳──
-
-FOCUS        ──►
-DEBUG        ──►
-LEARN        ──►
-BUILD        ──►
-```
-
-**The armor is discipline.**
-
----
-
-# 📈 THE BATTLEFIELD
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=vishweshwaranbalasundaram&show_icons=true&hide_border=true&title_color=111111&text_color=333333&icon_color=8B0000&bg_color=ffffff" height="165" alt="GitHub Stats">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishweshwaranbalasundaram&hide_border=true&ring=8B0000&fire=8B0000&currStreakLabel=8B0000&background=ffffff&sideNums=111111&dates=555555" height="165" alt="GitHub Streak">
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishweshwaranbalasundaram&layout=compact&hide_border=true&title_color=111111&text_color=333333&bg_color=ffffff" height="165" alt="Top Languages">
-
-</div>
-
----
-
-# 🐍 THE SHADOW TRAIL
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/vishweshwaranbalasundaram/vishweshwaranbalasundaram/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
-
-</div>
-
----
-
-# ⚔️ THE PATH AHEAD
-
-```text
-               CURRENT ARC
-                    │
-          ┌─────────┴─────────┐
-          ▼                   ▼
-     LEARN MORE           BUILD MORE
-          │                   │
-          └─────────┬─────────┘
-                    ▼
-               REAL SYSTEMS
-                    │
-                    ▼
-                  IMPACT
-```
-
-Still learning.
-
-Still building.
-
-Still struggling.
-
----
-
-<div align="center">
-
-# ☠️ STILL STANDING.
-
-### STILL LEARNING.
-
-### STILL BUILDING.
-
-<br>
-
-## `VISHWESHWARAN V`
-
-<br>
-
-> *“Struggle, endure, contend. For that alone is the sword of one who defies death.”*
-
-<br>
-
-`⚔️ STRUGGLE · ENDURE · CONTEND ⚔️`
+**THE BERSERKER'S JOURNEY CONTINUES.**
 
 </div>
