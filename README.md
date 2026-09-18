@@ -53,11 +53,11 @@
 
 <div align="center">
 
-[![HackTrail](https://github-readme-stats.vercel.app/api/pin/?username=vishweshwaranbalasundaram&repo=hacktrail&theme=tokyonight&hide_border=true)](https://github.com/vishweshwaranbalasundaram/hacktrail)
-[![Paytrix / Safe Pay Guard](https://github-readme-stats.vercel.app/api/pin/?username=vishweshwaranbalasundaram&repo=safepay-guard-os&theme=tokyonight&hide_border=true)](https://github.com/vishweshwaranbalasundaram/safepay-guard-os)
-[![DSA in C](https://github-readme-stats.vercel.app/api/pin/?username=vishweshwaranbalasundaram&repo=dsa-in-c&theme=tokyonight&hide_border=true)](https://github.com/vishweshwaranbalasundaram/dsa-in-c)
-[![E-commerce Churn Prediction](https://github-readme-stats.vercel.app/api/pin/?username=vishweshwaranbalasundaram&repo=ecommerce-churn-prediction&theme=tokyonight&hide_border=true)](https://github.com/vishweshwaranbalasundaram/ecommerce-churn-prediction)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=vishweshwaranbalasundaram&repo=portfolio&theme=tokyonight&hide_border=true)](https://github.com/vishweshwaranbalasundaram/portfolio)
+[![HackTrail](https://github-readme-stats-seven-rust-98.vercel.app/api/pin/?username=vishweshwaranbalasundaram&repo=hacktrail&theme=tokyonight&hide_border=true)](https://github.com/vishweshwaranbalasundaram/hacktrail)
+[![Paytrix / Safe Pay Guard](https://github-readme-stats-seven-rust-98.vercel.app/api/pin/?username=vishweshwaranbalasundaram&repo=safepay-guard-os&theme=tokyonight&hide_border=true)](https://github.com/vishweshwaranbalasundaram/safepay-guard-os)
+[![DSA in C](https://github-readme-stats-seven-rust-98.vercel.app/api/pin/?username=vishweshwaranbalasundaram&repo=dsa-in-c&theme=tokyonight&hide_border=true)](https://github.com/vishweshwaranbalasundaram/dsa-in-c)
+[![E-commerce Churn Prediction](https://github-readme-stats-seven-rust-98.vercel.app/api/pin/?username=vishweshwaranbalasundaram&repo=ecommerce-churn-prediction&theme=tokyonight&hide_border=true)](https://github.com/vishweshwaranbalasundaram/ecommerce-churn-prediction)
+[![Portfolio](https://github-readme-stats-seven-rust-98.vercel.app/api/pin/?username=vishweshwaranbalasundaram&repo=portfolio&theme=tokyonight&hide_border=true)](https://github.com/vishweshwaranbalasundaram/portfolio)
 
 </div>
 
