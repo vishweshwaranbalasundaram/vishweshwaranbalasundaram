@@ -22,6 +22,7 @@
 ---
 
 
+
 ## 01 / Meet the Developer
 
 <table>
@@ -29,9 +30,9 @@
 <td width="38%" align="center" valign="middle">
 
 <img
-  src="assets/guts-profile.png"
+  src="assets/berserk-berserk-armor-guts-wallpaper-preview.jpg"
   width="100%"
-  alt="Guts from Berserk — dark manga portrait"
+  alt="Guts from Berserk — manga portrait"
 />
 
 <br />
@@ -48,7 +49,7 @@
 ### `vishweshwaran@portfolio:~$ ./introduce.sh`
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2400&pause=900&color=58A6FF&multiline=true&repeat=true&width=500&height=200&lines=%3E+Computer+Science+Student;%3E+Exploring+Generative+AI;%3E+Learning+Machine+Learning;%3E+Building+Full-Stack+Projects;%3E+Python+%7C+Java+%7C+SQL+%7C+DSA;%3E+One+commit+at+a+time."
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2400&pause=900&color=58A6FF&multiline=true&repeat=true&width=500&height=230&lines=%3E+Computer+Science+Student;%3E+Exploring+Generative+AI;%3E+Learning+Machine+Learning;%3E+Building+Full-Stack+Projects;%3E+Python+%7C+Java+%7C+SQL+%7C+DSA;%3E+One+commit+at+a+time."
   alt="Animated developer introduction"
 />
 
@@ -60,13 +61,13 @@ Building practical software, strengthening engineering fundamentals, and explori
 
 <br />
 
-`STATUS: LEARNING / BUILDING / EVOLVING`
+<code>STATUS: LEARNING / BUILDING / EVOLVING</code>
 
 </td>
 </tr>
 </table>
 
-> “A relentless journey toward becoming better than yesterday.”
+> A relentless journey toward becoming better than yesterday.
 
 ---
 
