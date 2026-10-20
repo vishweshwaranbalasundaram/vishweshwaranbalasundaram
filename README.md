@@ -1,77 +1,128 @@
 
+<!-- =========================================================
+     VISHWESHWARAN V. | PROFILE README
+     Dark editorial / cyberpunk aesthetic
+========================================================== -->
+
 <div align="center">
 
-<img src="assets/profile-banner.svg" width="100%" alt="Vishweshwaran Developer Banner" />
+<img src="assets/profile-banner.svg" width="100%" alt="Vishweshwaran V. — Developer Profile" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Computer+Science+Student;Software+Engineering+Enthusiast;Exploring+Generative+AI+%26+Machine+Learning;Building+Projects+That+Solve+Real+Problems" alt="Animated introduction" />
-
-<br />
+<br/>
 
 <a href="https://www.linkedin.com/in/vishweshwaran-v-448a393a9">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/vishweshwaranbalasundaram">
-  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://leetcode.com/u/VISHWESHWARANV/">
-  <img src="https://img.shields.io/badge/LEETCODE-PRACTICE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LEETCODE-PRACTICE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=Computer+Science+%26+Engineering;Software+Engineering+Enthusiast;Exploring+Generative+AI+%26+Machine+Learning;Building.+Learning.+Improving." alt="Animated developer introduction"/>
 
 </div>
 
 ---
 
-
-
 ## 01 / Meet the Developer
 
 <table>
 <tr>
-<td width="38%" align="center" valign="middle">
+<td width="42%" align="center" valign="middle">
 
-<img
-  src="assets/berserk-berserk-armor-guts-wallpaper-preview.jpg"
-  width="100%"
-  alt="Guts from Berserk — manga portrait"
-/>
+<img src="assets/berserk-berserk-armor-guts-wallpaper-preview.jpg" width="100%" alt="Berserk-inspired dark artwork"/>
 
-<br />
+<br/><br/>
 
-<strong>VISHWESHWARAN.exe</strong>
+**VISHWESHWARAN.exe**
 
-<br />
-
-<sub>BUILT THROUGH STRUGGLE. DRIVEN BY PURPOSE.</sub>
+<sub>BUILDING THROUGH EVERY ITERATION</sub>
 
 </td>
-<td width="62%" valign="middle">
+<td width="58%" valign="middle">
 
-### `vishweshwaran@portfolio:~$ ./introduce.sh`
+### `vishweshwaran@github:~$ whoami`
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2400&pause=900&color=58A6FF&multiline=true&repeat=true&width=500&height=230&lines=%3E+Computer+Science+Student;%3E+Exploring+Generative+AI;%3E+Learning+Machine+Learning;%3E+Building+Full-Stack+Projects;%3E+Python+%7C+Java+%7C+SQL+%7C+DSA;%3E+One+commit+at+a+time."
-  alt="Animated developer introduction"
-/>
+I'm **Vishweshwaran V.**, a Computer Science and Engineering student at Rajalakshmi Engineering College, Chennai.
 
-<br />
+I'm interested in building practical software, understanding how systems work, and exploring the intersection of software engineering and AI.
 
-**CURRENT OBJECTIVE**
-
-Building practical software, strengthening engineering fundamentals, and exploring intelligent systems.
-
-<br />
-
-<code>STATUS: LEARNING / BUILDING / EVOLVING</code>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=700&color=00F5D4&width=440&height=105&lines=%3E+Learning+software+engineering;%3E+Exploring+machine+learning;%3E+Building+full-stack+projects;%3E+Working+towards+better+solutions" alt="Developer goals"/>
 
 </td>
 </tr>
 </table>
 
-> A relentless journey toward becoming better than yesterday.
+---
+
+## 02 / Developer Console
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5D4?style=flat-square&labelColor=111820" alt="System online"/>
+<img src="https://img.shields.io/badge/MODE-BUILDING-58A6FF?style=flat-square&labelColor=111820" alt="Building mode"/>
+<img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20LEARNING-F7B955?style=flat-square&labelColor=111820" alt="Continuous learning"/>
+
+</div>
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│  vishweshwaran@github:~$ whoami                           │
+│                                                          │
+│  Vishweshwaran V.                                        │
+│  Computer Science & Engineering Student                  │
+│                                                          │
+│  vishweshwaran@github:~$ interests                        │
+│                                                          │
+│  [01] Software Engineering                               │
+│  [02] Generative AI & Agentic Systems                    │
+│  [03] Machine Learning & Data Science                    │
+│  [04] Full-Stack Development                             │
+│  [05] Data Structures & Algorithms                       │
+│                                                          │
+│  vishweshwaran@github:~$ mission                          │
+│                                                          │
+│  Learn deeply.                                           │
+│  Build useful things.                                    │
+│  Understand how they work.                               │
+│  Make them better.                                       │
+│                                                          │
+│  vishweshwaran@github:~$ status                           │
+│                                                          │
+│  BUILDING / LEARNING / IMPROVING                          │
+└──────────────────────────────────────────────────────────┘
+```
 
 ---
 
-## 02 / Featured Projects
+## 03 / Technology Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,sql&theme=dark" alt="Programming languages"/>
+
+### Development Tools
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,mysql,firebase,git,github,vscode&theme=dark" alt="Development tools"/>
+
+### Areas of Exploration
+
+<img src="https://img.shields.io/badge/Machine%20Learning-Research-7C3AED?style=flat-square" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Generative%20AI-Exploring-00BFA6?style=flat-square" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/Agentic%20AI-Learning-2563EB?style=flat-square" alt="Agentic AI"/>
+<img src="https://img.shields.io/badge/Database%20Systems-MySQL-4479A1?style=flat-square" alt="Database systems"/>
+
+</div>
+
+---
+
+## 04 / Selected Projects
 
 <table>
 <tr>
@@ -81,60 +132,52 @@ Building practical software, strengthening engineering fundamentals, and explori
 
 **Smart Attendance Management System**
 
-A database-backed attendance application focused on students, faculty, class sessions, attendance records, and reliable persistence.
+A database-driven attendance application focused on reliable attendance records, student and faculty workflows, and attendance tracking.
 
-`Java` `JDBC` `MySQL` `OOP` `DBMS`
+**Focus:** Java · JDBC · MySQL · OOP
 
-<a href="https://github.com/vishweshwaranbalasundaram/Attend-IQ">
-  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-58A6FF?style=for-the-badge&logo=github&logoColor=white" alt="Attend-IQ repository" />
-</a>
+[View Repository →](https://github.com/vishweshwaranbalasundaram/Attend-IQ)
 
 </td>
 <td width="50%" valign="top">
 
 ### HackTrail
 
-**Hackathon Discovery Platform**
+**Hackathon Discovery and Exploration**
 
-A web project focused on helping users discover and explore hackathon opportunities.
+A project focused on making hackathon discovery and participation more accessible through a web-based experience.
 
-`Web Development` `UI/UX` `Product Design`
+**Focus:** Web Development · Product Design
 
-<a href="https://github.com/vishweshwaranbalasundaram/hacktrail">
-  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-8957E5?style=for-the-badge&logo=github&logoColor=white" alt="HackTrail repository" />
-</a>
+[View Repository →](https://github.com/vishweshwaranbalasundaram/hacktrail)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### E-Commerce Churn Prediction
+### E-commerce Churn Prediction
 
-**Customer Analytics & Machine Learning**
+**Customer Retention Analytics**
 
-A data science project exploring customer churn prediction and e-commerce behaviour.
+A machine-learning project exploring customer churn prediction using e-commerce data.
 
-`Python` `Data Science` `Machine Learning`
+**Focus:** Python · Data Science · Machine Learning
 
-<a href="https://github.com/vishweshwaranbalasundaram/ecommerce-churn-prediction">
-  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-238636?style=for-the-badge&logo=github&logoColor=white" alt="Churn prediction repository" />
-</a>
+[View Repository →](https://github.com/vishweshwaranbalasundaram/ecommerce-churn-prediction)
 
 </td>
 <td width="50%" valign="top">
 
 ### SafePay Guard OS
 
-**Payment Safety & Security**
+**Payment Safety Concept**
 
-A project exploring safety-oriented concepts for digital payment workflows and transaction protection.
+A project exploring safer payment workflows and protective software concepts.
 
-`Software Engineering` `Security` `Application Development`
+**Focus:** Software Engineering · Payment Safety
 
-<a href="https://github.com/vishweshwaranbalasundaram/safepay-guard-os">
-  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-D29922?style=for-the-badge&logo=github&logoColor=black" alt="SafePay Guard OS repository" />
-</a>
+[View Repository →](https://github.com/vishweshwaranbalasundaram/safepay-guard-os)
 
 </td>
 </tr>
@@ -142,203 +185,131 @@ A project exploring safety-oriented concepts for digital payment workflows and t
 
 ---
 
-## 03 / Technology Stack
-
-**Languages**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,js,ts" alt="Python, Java, C, JavaScript and TypeScript" />
-</p>
-
-**Frontend & Backend**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,tailwind" alt="HTML, CSS, React, Next.js, Node.js and Tailwind CSS" />
-</p>
-
-**Databases & Developer Tools**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,git,github,vscode,figma,vercel" alt="MySQL, MongoDB, Firebase, Git, GitHub, VS Code, Figma and Vercel" />
-</p>
-
-**Current focus:** DSA · Machine Learning · Generative AI · Full-Stack Development
-
----
-
-## 04 / GitHub Analytics
+## 05 / LeetCode Activity
 
 <div align="center">
 
-<a href="https://github.com/vishweshwaranbalasundaram">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vishweshwaranbalasundaram&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-</a>
-<a href="https://github.com/vishweshwaranbalasundaram">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishweshwaranbalasundaram&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
+<a href="https://leetcode.com/u/VISHWESHWARANV/">
+  <img src="https://leetcard.jacoblin.cool/VISHWESHWARANV?theme=dark&font=Fira%20Code&ext=contest" width="75%" alt="LeetCode statistics and contest information"/>
 </a>
 
-<br /><br />
+<br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=vishweshwaranbalasundaram&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
+<a href="https://leetcode.com/u/VISHWESHWARANV/">
+  <img src="https://img.shields.io/badge/OPEN%20PROFILE-SOLVE%20PROBLEMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Open LeetCode profile"/>
+</a>
 
 </div>
 
 ---
 
-## 05 / Contribution Universe
-
-<p align="center">
-  <sub>MY JOURNEY, ONE CONTRIBUTION AT A TIME</sub>
-</p>
+## 06 / GitHub Analytics
 
 <div align="center">
 
-<img
-  src="./profile-3d-contrib/profile-night-rainbow.svg"
-  width="100%"
-  alt="Three-dimensional GitHub contribution graph"
-/>
+<a href="https://github.com/vishweshwaranbalasundaram">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishweshwaranbalasundaram&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub profile statistics"/>
+</a>
+<a href="https://github.com/vishweshwaranbalasundaram">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishweshwaranbalasundaram&layout=compact&theme=transparent&hide_border=true" alt="Most used programming languages"/>
+</a>
 
-<br />
+<br/><br/>
 
-<img
-  src="./profile-3d-contrib/profile-green-animate.svg"
-  width="100%"
-  alt="Animated three-dimensional contribution calendar"
-/>
-
-<br />
-
-<sub>Every commit adds another block to the world I'm building.</sub>
+<img src="https://streak-stats.demolab.com?user=vishweshwaranbalasundaram&theme=transparent&hide_border=true" width="80%" alt="GitHub contribution streak"/>
 
 </div>
 
 ---
 
-## 06 / The Commit Trail
+## 07 / Contribution Universe
 
-<p align="center">
-  <sub>Consistency over intensity. Progress over perfection.</sub>
-</p>
+<div align="center">
+
+<sub>MY JOURNEY, ONE CONTRIBUTION AT A TIME</sub>
+
+<br/><br/>
+
+<img src="assets/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Three-dimensional GitHub contribution graph in rainbow theme"/>
+
+<br/>
+
+<img src="assets/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Animated three-dimensional GitHub contribution graph"/>
+
+<br/><br/>
+
+*Every contribution adds another block to the world I'm building.*
+
+</div>
+
+---
+
+## 08 / Contribution Trail
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vishweshwaranbalasundaram/vishweshwaranbalasundaram/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vishweshwaranbalasundaram/vishweshwaranbalasundaram/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/vishweshwaranbalasundaram/vishweshwaranbalasundaram/output/github-snake.svg" width="100%" alt="Animated GitHub contribution snake" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg"/>
+  <img src="assets/github-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
 </picture>
 
 </div>
 
 ---
 
-## 07 / LeetCode
-
-<div align="center">
-
-<a href="https://leetcode.com/u/VISHWESHWARANV/">
-  <img src="https://leetcard.jacoblin.cool/VISHWESHWARANV?theme=dark&font=Fira%20Code&ext=contest" width="80%" alt="LeetCode statistics and contest activity" />
-</a>
-
-<br /><br />
-
-<a href="https://leetcode.com/u/VISHWESHWARANV/">
-  <img src="https://img.shields.io/badge/OPEN_LEETCODE_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Open LeetCode profile" />
-</a>
-
-</div>
-
----
-
-## 08 / Current Learning Path
+## 09 / Currently Exploring
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-**Software Engineering**
+**01 — SOFTWARE**
 
-DSA, problem-solving, Java, backend fundamentals
-
-</td>
-<td width="33%" align="center">
-
-**Artificial Intelligence**
-
-Python, statistics, ML fundamentals, Generative AI
+Programming fundamentals, data structures, algorithms, and writing maintainable code.
 
 </td>
-<td width="33%" align="center">
+<td width="33%" align="center" valign="top">
 
-**Full-Stack Development**
+**02 — INTELLIGENCE**
 
-TypeScript, React, Next.js, databases, APIs
+Machine learning, generative AI, retrieval-augmented generation, and agentic systems.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+**03 — BUILDING**
+
+Frontend development, backend APIs, databases, and complete software projects.
 
 </td>
 </tr>
 </table>
-
----
-
-## 09 / Developer Console
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-```text
-vishweshwaran@github:~$ whoami
-
-  Computer Science Student
-  Software Engineering Enthusiast
-
-vishweshwaran@github:~$ interests
-
-  > Generative AI
-  > Machine Learning
-  > Full-Stack Development
-  > Data Structures & Algorithms
-
-vishweshwaran@github:~$ mission
-
-  Build useful things.
-  Learn how they work.
-  Make them better.
-
-vishweshwaran@github:~$ status
-
-  BUILDING / LEARNING / IMPROVING
-```
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
 ## 10 / Let's Connect
 
-I'm interested in collaborating on software projects, AI applications, and developer-focused tools.
-
 <div align="center">
 
+Interested in software engineering, AI, open-source projects, or building something useful? Let's connect.
+
+<br/>
+
 <a href="https://www.linkedin.com/in/vishweshwaran-v-448a393a9">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
 </a>
 <a href="https://github.com/vishweshwaranbalasundaram">
-  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
 </a>
 <a href="https://leetcode.com/u/VISHWESHWARANV/">
-  <img src="https://img.shields.io/badge/LEETCODE-PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  <img src="https://img.shields.io/badge/LeetCode-Follow%20My%20Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Follow LeetCode"/>
 </a>
 
-<br /><br />
+<br/><br/>
 
-<sub>Designed with purpose. Built through curiosity. Improved with every commit.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:102A43,100:00F5D4&height=120&section=footer" width="100%" alt="Dark cyan footer"/>
+
+<sub>BUILDING / LEARNING / IMPROVING</sub>
 
 </div>
