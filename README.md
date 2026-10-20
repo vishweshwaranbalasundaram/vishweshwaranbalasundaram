@@ -1,57 +1,73 @@
 
-<!-- =========================================================
-     VISHWESHWARAN V. | PROFILE README
-     Dark editorial / cyberpunk aesthetic
-========================================================== -->
+<!-- ==========================================================
+     VISHWESHWARAN V. — DEVELOPER PROFILE
+     Dark cinematic / Berserk-inspired aesthetic
+=========================================================== -->
 
 <div align="center">
 
-<img src="assets/profile-banner.svg" width="100%" alt="Vishweshwaran V. — Developer Profile" />
+<img src="assets/profile-banner.svg" width="100%" alt="Vishweshwaran — Developer Profile"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/vishweshwaran-v-448a393a9">
-  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=COMPUTER+SCIENCE+%26+ENGINEERING;SOFTWARE+ENGINEERING;GENERATIVE+AI+%2F+MACHINE+LEARNING;LEARN.+BUILD.+EVOLVE." alt="Animated introduction"/>
+
+<br/><br/>
+
 <a href="https://github.com/vishweshwaranbalasundaram">
-  <img src="https://img.shields.io/badge/GITHUB-FOLLOW-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/vishweshwaran-v-448a393a9">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://leetcode.com/u/VISHWESHWARANV/">
-  <img src="https://img.shields.io/badge/LEETCODE-PRACTICE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LEETCODE-PRACTICE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=45&lines=Computer+Science+%26+Engineering;Software+Engineering+Enthusiast;Exploring+Generative+AI+%26+Machine+Learning;Building.+Learning.+Improving." alt="Animated developer introduction"/>
+<img src="https://komarev.com/ghpvc/?username=vishweshwaranbalasundaram&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
 ---
 
-## 01 / Meet the Developer
+## 01 / The Developer Behind the Code
 
 <table>
 <tr>
-<td width="42%" align="center" valign="middle">
+<td width="40%" align="center" valign="middle">
 
-<img src="assets/berserk-berserk-armor-guts-wallpaper-preview.jpg" width="100%" alt="Berserk-inspired dark artwork"/>
+<img src="assets/berserk-berserk-armor-guts-wallpaper-preview.jpg" width="100%" alt="Guts in Berserker Armor from Berserk"/>
 
 <br/><br/>
 
-**VISHWESHWARAN.exe**
+<img src="https://img.shields.io/badge/MINDSET-UNBREAKABLE-8B9DFF?style=flat-square&labelColor=111820" alt="Mindset"/>
 
-<sub>BUILDING THROUGH EVERY ITERATION</sub>
+<br/>
+
+<sub>STRUGGLE. ENDURE. EVOLVE.</sub>
 
 </td>
-<td width="58%" valign="middle">
+<td width="60%" valign="middle">
 
 ### `vishweshwaran@github:~$ whoami`
 
 I'm **Vishweshwaran V.**, a Computer Science and Engineering student at Rajalakshmi Engineering College, Chennai.
 
-I'm interested in building practical software, understanding how systems work, and exploring the intersection of software engineering and AI.
+I'm exploring the world of software engineering, intelligent systems, and creative technology while building practical projects and strengthening my fundamentals.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=2200&pause=700&color=00F5D4&width=440&height=105&lines=%3E+Learning+software+engineering;%3E+Exploring+machine+learning;%3E+Building+full-stack+projects;%3E+Working+towards+better+solutions" alt="Developer goals"/>
+**CURRENT OBJECTIVES**
+
+- Software Engineering and problem-solving
+- Generative AI and Machine Learning
+- Full-Stack Web Development
+- Data Structures and Algorithms
+- Building useful, real-world applications
+
+**MY APPROACH**
+
+Learn the fundamentals. Build things that work. Understand why they work. Keep improving.
 
 </td>
 </tr>
@@ -59,70 +75,37 @@ I'm interested in building practical software, understanding how systems work, a
 
 ---
 
-## 02 / Developer Console
+## 02 / Technology Arsenal
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00F5D4?style=flat-square&labelColor=111820" alt="System online"/>
-<img src="https://img.shields.io/badge/MODE-BUILDING-58A6FF?style=flat-square&labelColor=111820" alt="Building mode"/>
-<img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20LEARNING-F7B955?style=flat-square&labelColor=111820" alt="Continuous learning"/>
+**LANGUAGES**
 
-</div>
+<img src="https://skillicons.dev/icons?i=python,java,c,js,ts&theme=dark" alt="Python Java C JavaScript TypeScript"/>
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│  vishweshwaran@github:~$ whoami                           │
-│                                                          │
-│  Vishweshwaran V.                                        │
-│  Computer Science & Engineering Student                  │
-│                                                          │
-│  vishweshwaran@github:~$ interests                        │
-│                                                          │
-│  [01] Software Engineering                               │
-│  [02] Generative AI & Agentic Systems                    │
-│  [03] Machine Learning & Data Science                    │
-│  [04] Full-Stack Development                             │
-│  [05] Data Structures & Algorithms                       │
-│                                                          │
-│  vishweshwaran@github:~$ mission                          │
-│                                                          │
-│  Learn deeply.                                           │
-│  Build useful things.                                    │
-│  Understand how they work.                               │
-│  Make them better.                                       │
-│                                                          │
-│  vishweshwaran@github:~$ status                           │
-│                                                          │
-│  BUILDING / LEARNING / IMPROVING                          │
-└──────────────────────────────────────────────────────────┘
-```
+<br/><br/>
 
----
+**WEB DEVELOPMENT**
 
-## 03 / Technology Stack
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,nodejs&theme=dark" alt="Web development technologies"/>
 
-<div align="center">
+<br/><br/>
 
-### Languages
+**DATABASES AND TOOLS**
 
-<img src="https://skillicons.dev/icons?i=python,java,c,js,ts,html,css,sql&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,figma&theme=dark" alt="Databases and developer tools"/>
 
-### Development Tools
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwind,mysql,firebase,git,github,vscode&theme=dark" alt="Development tools"/>
-
-### Areas of Exploration
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Research-7C3AED?style=flat-square" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Generative%20AI-Exploring-00BFA6?style=flat-square" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-Learning-2563EB?style=flat-square" alt="Agentic AI"/>
-<img src="https://img.shields.io/badge/Database%20Systems-MySQL-4479A1?style=flat-square" alt="Database systems"/>
+<img src="https://img.shields.io/badge/EXPLORING-GENERATIVE%20AI-8B9DFF?style=flat-square" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/EXPLORING-MACHINE%20LEARNING-39DDB8?style=flat-square" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-58A6FF?style=flat-square" alt="Software Engineering"/>
 
 </div>
 
 ---
 
-## 04 / Selected Projects
+## 03 / Selected Projects
 
 <table>
 <tr>
@@ -132,24 +115,24 @@ I'm interested in building practical software, understanding how systems work, a
 
 **Smart Attendance Management System**
 
-A database-driven attendance application focused on reliable attendance records, student and faculty workflows, and attendance tracking.
+An academic project focused on secure attendance workflows, reliable database records, and role-based access.
 
-**Focus:** Java · JDBC · MySQL · OOP
+`Java` `JDBC` `MySQL` `OOP`
 
-[View Repository →](https://github.com/vishweshwaranbalasundaram/Attend-IQ)
+[EXPLORE REPOSITORY →](https://github.com/vishweshwaranbalasundaram/Attend-IQ)
 
 </td>
 <td width="50%" valign="top">
 
 ### HackTrail
 
-**Hackathon Discovery and Exploration**
+**Hackathon Discovery**
 
-A project focused on making hackathon discovery and participation more accessible through a web-based experience.
+A project focused on helping developers discover hackathons and explore opportunities to build and compete.
 
-**Focus:** Web Development · Product Design
+`Web Development` `Product Design`
 
-[View Repository →](https://github.com/vishweshwaranbalasundaram/hacktrail)
+[EXPLORE REPOSITORY →](https://github.com/vishweshwaranbalasundaram/hacktrail)
 
 </td>
 </tr>
@@ -158,13 +141,13 @@ A project focused on making hackathon discovery and participation more accessibl
 
 ### E-commerce Churn Prediction
 
-**Customer Retention Analytics**
+**Data Science and Predictive Analytics**
 
-A machine-learning project exploring customer churn prediction using e-commerce data.
+An ML project exploring customer churn prediction and data-driven insights from e-commerce data.
 
-**Focus:** Python · Data Science · Machine Learning
+`Python` `Data Science` `Machine Learning`
 
-[View Repository →](https://github.com/vishweshwaranbalasundaram/ecommerce-churn-prediction)
+[EXPLORE REPOSITORY →](https://github.com/vishweshwaranbalasundaram/ecommerce-churn-prediction)
 
 </td>
 <td width="50%" valign="top">
@@ -173,11 +156,11 @@ A machine-learning project exploring customer churn prediction using e-commerce 
 
 **Payment Safety Concept**
 
-A project exploring safer payment workflows and protective software concepts.
+A project exploring safer payment experiences and software-based protective mechanisms.
 
-**Focus:** Software Engineering · Payment Safety
+`Software Engineering` `Security Concepts`
 
-[View Repository →](https://github.com/vishweshwaranbalasundaram/safepay-guard-os)
+[EXPLORE REPOSITORY →](https://github.com/vishweshwaranbalasundaram/safepay-guard-os)
 
 </td>
 </tr>
@@ -185,33 +168,131 @@ A project exploring safer payment workflows and protective software concepts.
 
 ---
 
-## 05 / LeetCode Activity
+## 04 / LeetCode Command Center
 
 <div align="center">
 
 <a href="https://leetcode.com/u/VISHWESHWARANV/">
-  <img src="https://leetcard.jacoblin.cool/VISHWESHWARANV?theme=dark&font=Fira%20Code&ext=contest" width="75%" alt="LeetCode statistics and contest information"/>
+<img src="https://leetcard.jacoblin.cool/VISHWESHWARANV?theme=dark&font=Fira%20Code&ext=contest" width="80%" alt="LeetCode statistics and contest information"/>
 </a>
 
-<br/>
+<br/><br/>
 
 <a href="https://leetcode.com/u/VISHWESHWARANV/">
-  <img src="https://img.shields.io/badge/OPEN%20PROFILE-SOLVE%20PROBLEMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Open LeetCode profile"/>
+<img src="https://img.shields.io/badge/OPEN%20PROFILE-SOLVE%20PROBLEMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Open LeetCode profile"/>
 </a>
 
 </div>
 
 ---
 
-## 06 / GitHub Analytics
+## 05 / Contribution Universe
+
+<div align="center">
+
+<sub>EVERY COMMIT BUILDS THE NEXT LEVEL</sub>
+
+<br/><br/>
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green.svg"/>
+<img src="profile-3d-contrib/profile-green.svg" width="100%" alt="Three-dimensional GitHub contribution graph"/>
+</picture>
+
+<br/><br/>
+
+<sub>CONSISTENCY IS BUILT ONE DAY AT A TIME.</sub>
+
+</div>
+
+---
+
+## 06 / The Commit Trail
+
+<div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season.svg"/>
+<img src="profile-3d-contrib/profile-season.svg" width="100%" alt="GitHub contribution calendar visualization"/>
+</picture>
+
+</div>
+
+---
+
+## 07 / Developer Console
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/TERMINAL-ONLINE-39DDB8?style=flat-square&labelColor=111820" alt="Terminal online"/>
+<img src="https://img.shields.io/badge/USER-VISHWESHWARAN-8B9DFF?style=flat-square&labelColor=111820" alt="User"/>
+<img src="https://img.shields.io/badge/MODE-EXECUTING-58A6FF?style=flat-square&labelColor=111820" alt="Execution mode"/>
+
+<br/><br/>
+
+<!-- Replace this GIF with your actual Guts video preview if needed. -->
+<img src="assets/profile-video-preview.gif" width="100%" alt="Cinematic Guts video animation"/>
+
+<br/>
+
+<sub>SUBJECT: THE DEVELOPER / STATUS: STILL BUILDING</sub>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2000&pause=550&color=58A6FF&center=true&vCenter=true&width=760&height=300&lines=vishweshwaran%40github%3A~%24+whoami;Computer+Science+%26+Engineering+Student;vishweshwaran%40github%3A~%24+interests;Software+Engineering+%7C+Generative+AI;Machine+Learning+%7C+Full-Stack+Development;vishweshwaran%40github%3A~%24+mission;Learn+deeply.+Build+fearlessly.;Understand+the+system.+Improve+every+day.;vishweshwaran%40github%3A~%24+status;BUILDING+%2F+LEARNING+%2F+IMPROVING" alt="Terminal output appearing line by line"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+| SYSTEM MODULE | CURRENT STATE |
+|:---|:---|
+| Programming | `IN PROGRESS` |
+| Problem Solving | `PRACTISING` |
+| Machine Learning | `EXPLORING` |
+| Full-Stack Development | `BUILDING` |
+| Generative AI | `INVESTIGATING` |
+
+</div>
+
+<div align="center">
+
+<sub>DISCIPLINE OVER MOTIVATION. PROGRESS OVER PERFECTION.</sub>
+
+</div>
+
+---
+
+## 08 / Contribution Snake
+
+<h2 align="left">08 / Contribution Snake</h2>
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/vishweshwaranbalasundaram/vishweshwaranbalasundaram/output/github-contribution-grid-snake-dark.svg"
+    alt="Animated GitHub contribution snake"
+    width="100%"
+  />
+</div>
+
+---
+
+---
+
+## 09 / GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/vishweshwaranbalasundaram">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vishweshwaranbalasundaram&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub profile statistics"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vishweshwaranbalasundaram&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub profile statistics"/>
 </a>
+
 <a href="https://github.com/vishweshwaranbalasundaram">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishweshwaranbalasundaram&layout=compact&theme=transparent&hide_border=true" alt="Most used programming languages"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishweshwaranbalasundaram&layout=compact&theme=transparent&hide_border=true" alt="Most-used programming languages"/>
 </a>
 
 <br/><br/>
@@ -222,65 +303,29 @@ A project exploring safer payment workflows and protective software concepts.
 
 ---
 
-## 07 / Contribution Universe
-
-<div align="center">
-
-<sub>MY JOURNEY, ONE CONTRIBUTION AT A TIME</sub>
-
-<br/><br/>
-
-<img src="assets/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Three-dimensional GitHub contribution graph in rainbow theme"/>
-
-<br/>
-
-<img src="assets/profile-3d-contrib/profile-green-animate.svg" width="100%" alt="Animated three-dimensional GitHub contribution graph"/>
-
-<br/><br/>
-
-*Every contribution adds another block to the world I'm building.*
-
-</div>
-
----
-
-## 08 / Contribution Trail
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg"/>
-  <img src="assets/github-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
-</picture>
-
-</div>
-
----
-
-## 09 / Currently Exploring
+## 10 / Current Learning Path
 
 <table>
 <tr>
 <td width="33%" align="center" valign="top">
 
-**01 — SOFTWARE**
+### SOFTWARE
 
-Programming fundamentals, data structures, algorithms, and writing maintainable code.
-
-</td>
-<td width="33%" align="center" valign="top">
-
-**02 — INTELLIGENCE**
-
-Machine learning, generative AI, retrieval-augmented generation, and agentic systems.
+Programming fundamentals, Java, Python, DSA, and maintainable code.
 
 </td>
 <td width="33%" align="center" valign="top">
 
-**03 — BUILDING**
+### INTELLIGENCE
 
-Frontend development, backend APIs, databases, and complete software projects.
+Machine Learning, Generative AI, RAG, and agentic systems.
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### ENGINEERING
+
+React, Next.js, backend APIs, databases, and complete applications.
 
 </td>
 </tr>
@@ -288,28 +333,30 @@ Frontend development, backend APIs, databases, and complete software projects.
 
 ---
 
-## 10 / Let's Connect
+## 11 / Connect
 
 <div align="center">
 
-Interested in software engineering, AI, open-source projects, or building something useful? Let's connect.
+Interested in software engineering, AI, open source, or building something useful? Let's connect.
 
-<br/>
+<br/><br/>
 
-<a href="https://www.linkedin.com/in/vishweshwaran-v-448a393a9">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
-</a>
 <a href="https://github.com/vishweshwaranbalasundaram">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/vishweshwaran-v-448a393a9">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 <a href="https://leetcode.com/u/VISHWESHWARANV/">
-  <img src="https://img.shields.io/badge/LeetCode-Follow%20My%20Practice-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="Follow LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-Keep%20Practising-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:102A43,100:00F5D4&height=120&section=footer" width="100%" alt="Dark cyan footer"/>
+<sub>DESIGNED WITH INTENT · BUILT WITH CURIOSITY · IMPROVED WITH EVERY COMMIT</sub>
 
-<sub>BUILDING / LEARNING / IMPROVING</sub>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:102A43,100:00F5D4&height=120&section=footer" width="100%" alt="Dark cyan footer"/>
 
 </div>
