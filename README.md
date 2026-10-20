@@ -21,60 +21,52 @@
 
 ---
 
+
 ## 01 / Meet the Developer
 
 <table>
 <tr>
-<td width="32%" align="center" valign="middle">
+<td width="38%" align="center" valign="middle">
 
-<pre>
-       .-"""-.
-      / .===. \
-     / / o o \ \
-     | |  ^  | |
-     | | '-' | |
-      \ '---' /
-       '-----'
-      __|___|__
-     /  |   |  \
-    /___|___|___\
-       /     \
-      /_______\
-        /   \
-       /_____\
-</pre>
+<img
+  src="assets/guts-profile.png"
+  width="100%"
+  alt="Guts from Berserk — dark manga portrait"
+/>
 
-<sub>VISHWESHWARAN.exe</sub>
+<br />
+
+<strong>VISHWESHWARAN.exe</strong>
+
+<br />
+
+<sub>BUILT THROUGH STRUGGLE. DRIVEN BY PURPOSE.</sub>
 
 </td>
-<td width="68%" valign="middle">
+<td width="62%" valign="middle">
 
 ### `vishweshwaran@portfolio:~$ ./introduce.sh`
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2400&pause=900&color=58A6FF&multiline=true&repeat=true&width=500&height=230&lines=%3E+Computer+Science+Student;%3E+Exploring+Generative+AI+%26+Machine+Learning;%3E+Building+Full-Stack+Projects;%3E+Strengthening+Python%2C+Java+%26+DSA;%3E+Interested+in+Backend+Engineering;%3E+Learning.+Building.+Improving."
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2400&pause=900&color=58A6FF&multiline=true&repeat=true&width=500&height=200&lines=%3E+Computer+Science+Student;%3E+Exploring+Generative+AI;%3E+Learning+Machine+Learning;%3E+Building+Full-Stack+Projects;%3E+Python+%7C+Java+%7C+SQL+%7C+DSA;%3E+One+commit+at+a+time."
   alt="Animated developer introduction"
 />
+
+<br />
+
+**CURRENT OBJECTIVE**
+
+Building practical software, strengthening engineering fundamentals, and exploring intelligent systems.
+
+<br />
+
+`STATUS: LEARNING / BUILDING / EVOLVING`
 
 </td>
 </tr>
 </table>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=3500&pause=1200&color=39DDB5&center=true&vCenter=true&width=650&lines=%24+whoami+%E2%86%92+vishweshwaran;%24+mission+%E2%86%92+build+useful+technology;%24+currently+learning+%E2%86%92+GenAI+%2B+Software+Engineering;%24+status+%E2%86%92+always+improving" alt="Animated terminal commands" />
-
-</div>
-
-I'm **Vishweshwaran**, a Computer Science and Engineering student at Rajalakshmi Engineering College, Chennai. I enjoy exploring how software, data, and AI can be combined to solve practical problems.
-
-- Exploring Generative AI, Machine Learning, and Full-Stack Development
-- Strengthening my foundations in Python, Java, SQL, and Data Structures & Algorithms
-- Interested in backend engineering, intelligent systems, and developer tools
-- Building practical projects while improving my problem-solving skills
-- Working toward a career in software engineering with a GenAI specialization
-
-> Learn deeply. Build consistently. Improve with every iteration.
+> “A relentless journey toward becoming better than yesterday.”
 
 ---
 
