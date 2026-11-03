@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Vishweshwaran V. — Software, Systems and AI</title>
+  <desc id="desc">A dark editorial developer banner with cyan technical grid lines and a terminal-inspired identity panel.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111c"/><stop offset=".58" stop-color="#0b1725"/><stop offset="1" stop-color="#101827"/></linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+    <radialGradient id="orb"><stop stop-color="#22d3ee" stop-opacity=".23"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#7dd3fc" stroke-opacity=".075" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1000" cy="100" r="310" fill="url(#orb)"/>
+  <path d="M0 292H1200" stroke="#67e8f9" stroke-opacity=".18"/>
+  <path d="M840 0L1200 360M950 0L1200 250" stroke="#a5b4fc" stroke-opacity=".12"/>
+  <rect x="58" y="44" width="1084" height="272" rx="17" fill="#08111c" fill-opacity=".52" stroke="#7dd3fc" stroke-opacity=".2"/>
+  <circle cx="88" cy="72" r="5" fill="#fb7185"/><circle cx="108" cy="72" r="5" fill="#fbbf24"/><circle cx="128" cy="72" r="5" fill="#34d399"/>
+  <text x="160" y="77" fill="#64748b" font-family="monospace" font-size="13" letter-spacing="3">VISHWESHWARAN / DEVELOPER PROFILE</text>
+  <text x="92" y="174" fill="#f8fafc" font-family="Arial, Helvetica, sans-serif" font-size="60" font-weight="700" letter-spacing="-2">VISHWESHWARAN V.</text>
+  <rect x="94" y="198" width="340" height="4" rx="2" fill="url(#glow)"/>
+  <text x="94" y="244" fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif" font-size="21" letter-spacing="2">COMPUTER SCIENCE  /  SOFTWARE  /  GENAI</text>
+  <text x="94" y="282" fill="#67e8f9" font-family="monospace" font-size="15">LEARN DEEPLY. BUILD USEFUL THINGS. ITERATE.</text>
+  <g transform="translate(900 128)" fill="none" stroke="url(#glow)" stroke-width="2">
+    <rect x="0" y="0" width="154" height="112" rx="12" stroke-opacity=".8"/>
+    <path d="M20 34l15 14-15 14M48 62h46" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="119" cy="48" r="17" stroke-opacity=".65"/><path d="M119 37v22M108 48h22" stroke-opacity=".65"/>
+  </g>
+</svg>
