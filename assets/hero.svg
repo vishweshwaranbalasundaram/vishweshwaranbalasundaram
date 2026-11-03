@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="540" viewBox="0 0 1200 540" role="img" aria-labelledby="t d">
+<title id="t">Vishweshwaran V. — software engineering and applied AI</title>
+<desc id="d">Animated dark profile header for Vishweshwaran V., a Computer Science and Engineering student in Chennai focused on software engineering, applied AI and full-stack development.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090c1a"/><stop offset=".55" stop-color="#070914"/><stop offset="1" stop-color="#150f2b"/></linearGradient>
+<linearGradient id="nm" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff"/><stop offset=".55" stop-color="#8b9dff"/><stop offset="1" stop-color="#c084fc"/></linearGradient>
+<linearGradient id="ln" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#58a6ff" stop-opacity="0"/><stop offset=".5" stop-color="#a78bfa"/><stop offset="1" stop-color="#58a6ff" stop-opacity="0"/></linearGradient>
+<radialGradient id="a1"><stop offset="0" stop-color="#3b82f6" stop-opacity=".55"/><stop offset="1" stop-color="#3b82f6" stop-opacity="0"/></radialGradient>
+<radialGradient id="a2"><stop offset="0" stop-color="#8b5cf6" stop-opacity=".5"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+<radialGradient id="a3"><stop offset="0" stop-color="#22d3ee" stop-opacity=".28"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#a5b4fc" stroke-opacity=".06"/></pattern>
+<clipPath id="card"><rect width="1200" height="540" rx="18"/></clipPath>
+<clipPath id="tick"><rect x="58" y="486" width="1084" height="30"/></clipPath>
+</defs>
+<style>
+@keyframes d1{0%,100%{transform:translate(0,0)}50%{transform:translate(70px,40px)}}
+@keyframes d2{0%,100%{transform:translate(0,0)}50%{transform:translate(-80px,-30px)}}
+@keyframes d3{0%,100%{transform:translate(0,0)}50%{transform:translate(40px,-50px)}}
+@keyframes sweep{0%,10%{transform:translateX(-500px)}90%,100%{transform:translateX(1100px)}}
+@keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+@keyframes tk{from{transform:translateX(0)}to{transform:translateX(-1030px)}}
+@keyframes r1{0%,4%{opacity:0}9%,92%{opacity:1}98%,100%{opacity:0}}
+@keyframes r2{0%,18%{opacity:0}23%,92%{opacity:1}98%,100%{opacity:0}}
+@keyframes r3{0%,34%{opacity:0}39%,92%{opacity:1}98%,100%{opacity:0}}
+@keyframes r4{0%,50%{opacity:0}55%,92%{opacity:1}98%,100%{opacity:0}}
+.d1{animation:d1 14s ease-in-out infinite}.d2{animation:d2 17s ease-in-out infinite}.d3{animation:d3 12s ease-in-out infinite}
+.sw{animation:sweep 6s cubic-bezier(.65,0,.35,1) infinite}
+.bl{animation:blink 1s steps(1,end) infinite}.pu{animation:pulse 2.2s ease-in-out infinite}
+.tk{animation:tk 26s linear infinite}
+.l1{animation:r1 11s infinite}.l2{animation:r2 11s infinite}.l3{animation:r3 11s infinite}.l4{animation:r4 11s infinite}
+@media(prefers-reduced-motion:reduce){.d1,.d2,.d3,.sw,.bl,.pu,.tk{animation:none!important}.l1,.l2,.l3,.l4{animation:none!important;opacity:1!important}}
+</style>
+<g clip-path="url(#card)">
+<rect width="1200" height="540" fill="url(#bg)"/>
+<rect width="1200" height="540" fill="url(#grid)"/>
+<g class="d1"><circle cx="240" cy="150" r="300" fill="url(#a1)"/></g>
+<g class="d2"><circle cx="980" cy="380" r="320" fill="url(#a2)"/></g>
+<g class="d3"><circle cx="640" cy="40" r="240" fill="url(#a3)"/></g>
+<rect x="0" y="0" width="1200" height="540" fill="none"/>
+</g>
+<rect x=".75" y=".75" width="1198.5" height="538.5" rx="18" fill="none" stroke="#28324d" stroke-width="1.5"/>
+
+<!-- top bar -->
+<g font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="1.6" fill="#9aa6c4">
+<text x="58" y="48">VISHWESHWARAN V. / PORTFOLIO</text>
+<circle class="pu" cx="700" cy="44" r="4.5" fill="#34d399"/>
+<text x="714" y="48" fill="#c7d0ea">OPEN TO SWE INTERNSHIPS</text>
+<text x="1142" y="48" text-anchor="end">CHENNAI · INDIA</text>
+</g>
+<path d="M58 66H1142" stroke="#28324d"/>
+
+<!-- name -->
+<text x="54" y="190" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="104" letter-spacing="-5" fill="url(#nm)">VISHWESHWARAN</text>
+<g clip-path="url(#card)"><rect class="sw" x="0" y="206" width="500" height="2.5" fill="url(#ln)"/></g>
+<path d="M58 207H1142" stroke="#28324d"/>
+
+<!-- chips -->
+<g font-family="Arial,Helvetica,sans-serif" font-weight="700" font-size="13" letter-spacing="1.4" fill="#e6ebff">
+<rect x="58" y="232" width="214" height="36" rx="18" fill="#58a6ff" fill-opacity=".14" stroke="#58a6ff" stroke-opacity=".6"/>
+<text x="165" y="255" text-anchor="middle">SOFTWARE ENGINEERING</text>
+<rect x="284" y="232" width="150" height="36" rx="18" fill="#8b5cf6" fill-opacity=".16" stroke="#8b5cf6" stroke-opacity=".7"/>
+<text x="359" y="255" text-anchor="middle">APPLIED GENAI</text>
+<rect x="446" y="232" width="138" height="36" rx="18" fill="#22d3ee" fill-opacity=".1" stroke="#22d3ee" stroke-opacity=".55"/>
+<text x="515" y="255" text-anchor="middle">FULL-STACK</text>
+</g>
+
+<!-- terminal -->
+<g>
+<rect x="58" y="296" width="600" height="168" rx="12" fill="#0b1020" stroke="#28324d"/>
+<path d="M58 326H658" stroke="#28324d"/>
+<circle cx="80" cy="311" r="5" fill="#ff5f56"/><circle cx="98" cy="311" r="5" fill="#ffbd2e"/><circle cx="116" cy="311" r="5" fill="#27c93f"/>
+<text x="358" y="315" text-anchor="middle" font-family="'JetBrains Mono',Consolas,monospace" font-size="11" fill="#6b7694" letter-spacing="1">vishwesh@rec: ~</text>
+<g font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14">
+<g class="l1"><text x="80" y="354" fill="#58a6ff">$ whoami</text></g>
+<g class="l2"><text x="80" y="376" fill="#d5dcf5">CSE student · Rajalakshmi Engineering College</text></g>
+<g class="l3"><text x="80" y="406" fill="#58a6ff">$ cat focus.txt</text><text x="80" y="428" fill="#d5dcf5">java · python · sql · full-stack · genai</text></g>
+<g class="l4"><text x="80" y="454" fill="#a78bfa">&gt; turning vague ideas into systems that work</text><rect class="bl" x="406" y="441" width="9" height="16" fill="#a78bfa"/></g>
+</g>
+</g>
+
+<!-- orbit -->
+<g>
+<circle cx="940" cy="375" r="118" fill="none" stroke="#58a6ff" stroke-opacity=".25" stroke-dasharray="3 7"/>
+<circle cx="940" cy="375" r="80" fill="none" stroke="#8b5cf6" stroke-opacity=".35" stroke-dasharray="2 6"/>
+<circle cx="940" cy="375" r="46" fill="none" stroke="#22d3ee" stroke-opacity=".35"/>
+<g><animateTransform attributeName="transform" type="rotate" from="0 940 375" to="360 940 375" dur="22s" repeatCount="indefinite"/>
+<circle cx="1058" cy="375" r="7" fill="#58a6ff"/><circle cx="822" cy="375" r="5" fill="#8b9dff"/></g>
+<g><animateTransform attributeName="transform" type="rotate" from="360 940 375" to="0 940 375" dur="15s" repeatCount="indefinite"/>
+<circle cx="940" cy="295" r="6" fill="#c084fc"/><circle cx="1010" cy="415" r="4.5" fill="#22d3ee"/></g>
+<g><animateTransform attributeName="transform" type="rotate" from="0 940 375" to="360 940 375" dur="9s" repeatCount="indefinite"/>
+<circle cx="986" cy="375" r="4" fill="#34d399"/></g>
+<polygon points="940,347 964,361 964,389 940,403 916,389 916,361" fill="#0b1020" stroke="#8b9dff" stroke-width="1.5"/>
+<text x="940" y="384" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="24" fill="url(#nm)">V</text>
+</g>
+
+<!-- ticker -->
+<path d="M58 480H1142" stroke="#28324d"/>
+<g clip-path="url(#tick)"><g class="tk" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="13" letter-spacing="2" fill="#8f9bbd">
+<text x="58" y="506">JAVA  ◆  PYTHON  ◆  SQL  ◆  JDBC  ◆  FASTAPI  ◆  NEXT.JS  ◆  TYPESCRIPT  ◆  FIREBASE  ◆  GENAI  ◆  AGENTS  ◆  DSA  ◆  </text>
+<text x="1088" y="506">JAVA  ◆  PYTHON  ◆  SQL  ◆  JDBC  ◆  FASTAPI  ◆  NEXT.JS  ◆  TYPESCRIPT  ◆  FIREBASE  ◆  GENAI  ◆  AGENTS  ◆  DSA  ◆  </text>
+</g></g>
+</svg>

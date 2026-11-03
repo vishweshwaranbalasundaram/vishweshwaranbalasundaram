@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" role="img" aria-labelledby="t d">
+<title id="t">PAYTRIX safety kernel flow</title>
+<desc id="d">An AI shopping agent's purchase request passes through agent authentication and a safety kernel with four checks. The outcome is allow, step-up confirmation or block. Only allowed purchases reach the payment gateway. Every decision is written to a SHA-256 hash-chained audit ledger.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#090c1a"/><stop offset="1" stop-color="#150f2b"/></linearGradient>
+<marker id="ar" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#8b9dff"/></marker>
+<marker id="arg" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0 0L10 5L0 10z" fill="#34d399"/></marker>
+</defs>
+<style>
+@keyframes flow{to{stroke-dashoffset:-24}}
+@keyframes pu{0%,100%{opacity:.4}50%{opacity:1}}
+@keyframes chain{0%,100%{opacity:.45}50%{opacity:1}}
+.f{stroke-dasharray:6 6;animation:flow 1.2s linear infinite}
+.pu{animation:pu 2.4s ease-in-out infinite}
+.c1{animation:chain 3s ease-in-out infinite}.c2{animation:chain 3s ease-in-out .5s infinite}.c3{animation:chain 3s ease-in-out 1s infinite}.c4{animation:chain 3s ease-in-out 1.5s infinite}.c5{animation:chain 3s ease-in-out 2s infinite}.c6{animation:chain 3s ease-in-out 2.5s infinite}
+text{font-family:Arial,Helvetica,sans-serif}
+.m{font-family:'JetBrains Mono','SFMono-Regular',Consolas,monospace}
+@media(prefers-reduced-motion:reduce){.f,.pu,.c1,.c2,.c3,.c4,.c5,.c6{animation:none!important}}
+</style>
+<rect width="1200" height="440" rx="18" fill="url(#bg)"/>
+<rect x=".75" y=".75" width="1198.5" height="438.5" rx="18" fill="none" stroke="#28324d" stroke-width="1.5"/>
+<text x="40" y="44" class="m" font-size="12" letter-spacing="2" fill="#9aa6c4">PAYTRIX / REQUEST PATH</text>
+<text x="1160" y="44" class="m" font-size="12" letter-spacing="2" fill="#9aa6c4" text-anchor="end">BLOCKED BEFORE THE GATEWAY</text>
+
+<!-- agent -->
+<rect x="30" y="120" width="170" height="120" rx="14" fill="#0b1020" stroke="#58a6ff" stroke-opacity=".7"/>
+<text x="115" y="164" text-anchor="middle" font-size="15" font-weight="700" fill="#e6ebff">AI SHOPPING</text>
+<text x="115" y="184" text-anchor="middle" font-size="15" font-weight="700" fill="#e6ebff">AGENT</text>
+<text x="115" y="212" text-anchor="middle" class="m" font-size="11" fill="#8f9bbd">purchase request</text>
+<path class="f" d="M200 180H246" stroke="#8b9dff" stroke-width="2" marker-end="url(#ar)"/>
+
+<!-- kernel -->
+<rect x="250" y="64" width="520" height="262" rx="16" fill="#8b5cf6" fill-opacity=".07" stroke="#8b5cf6" stroke-opacity=".8" stroke-width="1.5"/>
+<text x="272" y="90" class="m" font-size="12" letter-spacing="2" fill="#c4b5fd">SAFETY KERNEL</text>
+<g font-size="14" font-weight="700" fill="#e6ebff">
+<rect x="272" y="104" width="226" height="64" rx="10" fill="#0b1020" stroke="#28324d"/>
+<text x="288" y="130">Anti-dark-pattern</text><text x="288" y="150" font-weight="400" font-size="12" fill="#8f9bbd">interceptor</text>
+<rect x="522" y="104" width="226" height="64" rx="10" fill="#0b1020" stroke="#28324d"/>
+<text x="538" y="130">Price sentinel</text><text x="538" y="150" font-weight="400" font-size="12" fill="#8f9bbd">10% price cap</text>
+<rect x="272" y="184" width="226" height="64" rx="10" fill="#0b1020" stroke="#28324d"/>
+<text x="288" y="210">Velocity governor</text><text x="288" y="230" font-weight="400" font-size="12" fill="#8f9bbd">spend-rate limits</text>
+<rect x="522" y="184" width="226" height="64" rx="10" fill="#0b1020" stroke="#28324d"/>
+<text x="538" y="210">Intent → Authority score</text><text x="538" y="230" font-weight="400" font-size="12" fill="#8f9bbd">explainable I2A breakdown</text>
+</g>
+<rect x="272" y="266" width="476" height="40" rx="10" fill="#58a6ff" fill-opacity=".1" stroke="#58a6ff" stroke-opacity=".5"/>
+<text x="510" y="291" text-anchor="middle" class="m" font-size="12" fill="#bcd6ff">agent identity auth · idempotency / replay protection</text>
+
+<!-- outcomes -->
+<path class="f" d="M770 144H806" stroke="#34d399" stroke-width="2" marker-end="url(#arg)"/>
+<path class="f" d="M770 200H806" stroke="#fbbf24" stroke-width="2"/>
+<path class="f" d="M770 256H806" stroke="#f87171" stroke-width="2"/>
+<g font-size="13" font-weight="800" letter-spacing="1.2">
+<rect x="810" y="120" width="150" height="48" rx="24" fill="#34d399" fill-opacity=".13" stroke="#34d399"/><text x="885" y="150" text-anchor="middle" fill="#6ee7b7">ALLOW</text>
+<rect x="810" y="176" width="150" height="48" rx="24" fill="#fbbf24" fill-opacity=".12" stroke="#fbbf24"/><text x="885" y="206" text-anchor="middle" fill="#fcd34d">STEP-UP CONFIRM</text>
+<rect x="810" y="232" width="150" height="48" rx="24" fill="#f87171" fill-opacity=".12" stroke="#f87171"/><text x="885" y="262" text-anchor="middle" fill="#fca5a5">BLOCK</text>
+</g>
+<text x="885" y="302" text-anchor="middle" class="m" font-size="11" fill="#fca5a5">✕ stops here</text>
+<path class="f" d="M960 144H1006" stroke="#34d399" stroke-width="2" marker-end="url(#arg)"/>
+<rect x="1010" y="104" width="160" height="80" rx="14" fill="#0b1020" stroke="#34d399" stroke-opacity=".7"/>
+<text x="1090" y="140" text-anchor="middle" font-size="14" font-weight="700" fill="#e6ebff">PAYMENT</text>
+<text x="1090" y="160" text-anchor="middle" font-size="14" font-weight="700" fill="#e6ebff">GATEWAY</text>
+
+<!-- ledger -->
+<path d="M510 326V352" stroke="#8b9dff" stroke-opacity=".6" stroke-dasharray="3 5"/>
+<text x="40" y="392" class="m" font-size="12" letter-spacing="2" fill="#9aa6c4">AUDIT</text>
+<g stroke="#8b9dff" stroke-opacity=".55" stroke-width="1.5">
+<rect class="c1" x="150" y="364" width="112" height="44" rx="8" fill="#58a6ff" fill-opacity=".18"/>
+<rect class="c2" x="290" y="364" width="112" height="44" rx="8" fill="#58a6ff" fill-opacity=".18"/>
+<rect class="c3" x="430" y="364" width="112" height="44" rx="8" fill="#8b5cf6" fill-opacity=".2"/>
+<rect class="c4" x="570" y="364" width="112" height="44" rx="8" fill="#8b5cf6" fill-opacity=".2"/>
+<rect class="c5" x="710" y="364" width="112" height="44" rx="8" fill="#22d3ee" fill-opacity=".15"/>
+<rect class="c6" x="850" y="364" width="112" height="44" rx="8" fill="#22d3ee" fill-opacity=".15"/>
+</g>
+<g stroke="#8b9dff" stroke-width="2"><path d="M262 386H290"/><path d="M402 386H430"/><path d="M542 386H570"/><path d="M682 386H710"/><path d="M822 386H850"/></g>
+<g class="m" font-size="11" text-anchor="middle" fill="#d5dcf5"><text x="206" y="391">hash #1</text><text x="346" y="391">hash #2</text><text x="486" y="391">hash #3</text><text x="626" y="391">hash #4</text><text x="766" y="391">hash #5</text><text x="906" y="391">hash #6</text></g>
+<text x="1160" y="391" text-anchor="end" class="m" font-size="12" fill="#8f9bbd">SHA-256 hash-chained ledger</text>
+</svg>
